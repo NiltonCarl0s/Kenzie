@@ -1,2 +1,2 @@
 # Kenzie
-Aulas e exercícios da Kezie
+Aulas e exercícios da Kenzie
